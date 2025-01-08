@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @collinkleest
-- 👀 I’m interested in Building awesome software.
+- 👀 I’m looking for a software engineering position in the Dallas Fort Worth Area.
 - 🌱 I’m currently learning more about software architecture.
-- 💞️ I’m looking to collaborate on nothing :)
+- 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me collinkleest@gmail.com
 
 <!---
