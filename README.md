@@ -17,3 +17,13 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="30" height="30">
 </a>
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width="30" height="30">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="30" height="30">
+</a>
+<a href="https://go.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" width="30" height="30">
+</a>
